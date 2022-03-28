@@ -4,7 +4,7 @@ slug: k3v-approachable-example
 description: "An approachable, non-trivial, go and k8s project to take apart"
 date: 2022-03-28T11:33:56-05:00
 type: posts
-draft: true
+draft: false
 categories:
 - General
 tags:
