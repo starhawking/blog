@@ -1,0 +1,4 @@
+baseURL = 'https://blog.starhawking.com/'
+languageCode = 'en-us'
+title = "Emma's Blog"
+theme = "slick"
